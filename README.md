@@ -23,12 +23,19 @@ It has been developed under iOS 4.3 and 5.0 devices, sample code has been built 
 
 Demo
 ----
+
 ![Initialized](https://github.com/mystcolor/JTRevealSidebarDemo/raw/JTRevealSidebarV2/demo1.png)
 ![Left Revealed](https://github.com/mystcolor/JTRevealSidebarDemo/raw/JTRevealSidebarV2/demo2.png)
 ![Left Selected](https://github.com/mystcolor/JTRevealSidebarDemo/raw/JTRevealSidebarV2/demo3.png)
 ![Right Revealed](https://github.com/mystcolor/JTRevealSidebarDemo/raw/JTRevealSidebarV2/demo4.png)
 ![New Pushed](https://github.com/mystcolor/JTRevealSidebarDemo/raw/JTRevealSidebarV2/demo5.png)
 ![New Right Revealed](https://github.com/mystcolor/JTRevealSidebarDemo/raw/JTRevealSidebarV2/demo6.png)
+
+<!-- MacBuildServer Install Button -->
+<div class="macbuildserver-block">
+    <a class="macbuildserver-button" href="http://macbuildserver.com/project/github/build/?xcode_project=JTRevealSidebarDemo.xcodeproj&amp;target=JTRevealSidebarDemo&amp;repo_url=https%3A%2F%2Fgithub.com%2Fmystcolor%2FJTRevealSidebarDemo&amp;build_conf=Release" target="_blank"><img src="http://com.macbuildserver.github.s3-website-us-east-1.amazonaws.com/button_up.png"/></a><br/><sup><a href="http://macbuildserver.com/github/opensource/" target="_blank">by MacBuildServer</a></sup>
+</div>
+<!-- MacBuildServer Install Button -->
 
 Abstract
 --------
